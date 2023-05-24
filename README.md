@@ -269,7 +269,7 @@ X, cells = dmsh.generate(geo, 0.1)
 
 ### Debugging
 
-| ![level-set-poly](https://nschloe.github.io/dmsh/levelset-polygon.png) | ![level-set-rect-hole](https://nschloe.github.io/dmsh/levelset-rect-hole.png) |
+| ![level-set-poly](figs/levelset-polygon.png) | ![level-set-rect-hole](figs/levelset-rect-hole.png) |
 | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 
 dmsh is rather fragile, but sometimes the break-downs are due to an incorrectly defined
