@@ -28,7 +28,8 @@ classifiers = [
 dynamic = ["version"]
 requires-python = ">=3.7"
 dependencies = [
-  "meshplex >= 0.16.0, < 0.18.0",
+  #"meshplex >= 0.16.0, < 0.18.0",
+  "meshplex",
   "npx",
   "numpy",
   "scipy",
